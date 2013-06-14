@@ -1,17 +1,332 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83e38748-586c-4c7b-98a7-e5cec06f8e77" name="Default" comment="" />
+    <list default="true" id="83e38748-586c-4c7b-98a7-e5cec06f8e77" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/common/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\annotations\GuardedBy.java" afterPath="$PROJECT_DIR$/src/main/java/annotations/GuardedBy.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\annotations\Immutable.java" afterPath="$PROJECT_DIR$/src/main/java/annotations/Immutable.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\annotations\NotThreadSafe.java" afterPath="$PROJECT_DIR$/src/main/java/annotations/NotThreadSafe.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\annotations\ThreadSafe.java" afterPath="$PROJECT_DIR$/src/main/java/annotations/ThreadSafe.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\Animals.java" afterPath="$PROJECT_DIR$/src/main/java/examples/Animals.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\AtomicPseudoRandom.java" afterPath="$PROJECT_DIR$/src/main/java/examples/AtomicPseudoRandom.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\AttributeStore.java" afterPath="$PROJECT_DIR$/src/main/java/examples/AttributeStore.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\BackgroundTask.java" afterPath="$PROJECT_DIR$/src/main/java/examples/BackgroundTask.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\BarrierTimer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/BarrierTimer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\BaseBoundedBuffer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/BaseBoundedBuffer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\BetterAttributeStore.java" afterPath="$PROJECT_DIR$/src/main/java/examples/BetterAttributeStore.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\BetterVector.java" afterPath="$PROJECT_DIR$/src/main/java/examples/BetterVector.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\BoundedBuffer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/BoundedBuffer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\BoundedExecutor.java" afterPath="$PROJECT_DIR$/src/main/java/examples/BoundedExecutor.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\BoundedHashSet.java" afterPath="$PROJECT_DIR$/src/main/java/examples/BoundedHashSet.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\BrokenPrimeProducer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/BrokenPrimeProducer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\CachedFactorizer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/CachedFactorizer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\CasCounter.java" afterPath="$PROJECT_DIR$/src/main/java/examples/CasCounter.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\CasNumberRange.java" afterPath="$PROJECT_DIR$/src/main/java/examples/CasNumberRange.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\CellularAutomata.java" afterPath="$PROJECT_DIR$/src/main/java/examples/CellularAutomata.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\CheckForMail.java" afterPath="$PROJECT_DIR$/src/main/java/examples/CheckForMail.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\ConcurrentPuzzleSolver.java" afterPath="$PROJECT_DIR$/src/main/java/examples/ConcurrentPuzzleSolver.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\ConcurrentStack.java" afterPath="$PROJECT_DIR$/src/main/java/examples/ConcurrentStack.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\ConditionBoundedBuffer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/ConditionBoundedBuffer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\ConnectionDispenser.java" afterPath="$PROJECT_DIR$/src/main/java/examples/ConnectionDispenser.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\CooperatingDeadlock.java" afterPath="$PROJECT_DIR$/src/main/java/examples/CooperatingDeadlock.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\CooperatingNoDeadlock.java" afterPath="$PROJECT_DIR$/src/main/java/examples/CooperatingNoDeadlock.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\Counter.java" afterPath="$PROJECT_DIR$/src/main/java/examples/Counter.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\CountingFactorizer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/CountingFactorizer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\CountingSheep.java" afterPath="$PROJECT_DIR$/src/main/java/examples/CountingSheep.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\DeadlockAvoidance.java" afterPath="$PROJECT_DIR$/src/main/java/examples/DeadlockAvoidance.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\DelegatingVehicleTracker.java" afterPath="$PROJECT_DIR$/src/main/java/examples/DelegatingVehicleTracker.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\DemonstrateDeadlock.java" afterPath="$PROJECT_DIR$/src/main/java/examples/DemonstrateDeadlock.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\DoubleCheckedLocking.java" afterPath="$PROJECT_DIR$/src/main/java/examples/DoubleCheckedLocking.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\DynamicOrderDeadlock.java" afterPath="$PROJECT_DIR$/src/main/java/examples/DynamicOrderDeadlock.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\EagerInitialization.java" afterPath="$PROJECT_DIR$/src/main/java/examples/EagerInitialization.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\Factorizer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/Factorizer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\FutureRenderer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/FutureRenderer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\GrumpyBoundedBuffer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/GrumpyBoundedBuffer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\GuiExecutor.java" afterPath="$PROJECT_DIR$/src/main/java/examples/GuiExecutor.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\HiddenIterator.java" afterPath="$PROJECT_DIR$/src/main/java/examples/HiddenIterator.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\Holder.java" afterPath="$PROJECT_DIR$/src/main/java/examples/Holder.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\ImprovedList.java" afterPath="$PROJECT_DIR$/src/main/java/examples/ImprovedList.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\IndexingService.java" afterPath="$PROJECT_DIR$/src/main/java/examples/IndexingService.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\InduceLockOrder.java" afterPath="$PROJECT_DIR$/src/main/java/examples/InduceLockOrder.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\InterruptibleLocking.java" afterPath="$PROJECT_DIR$/src/main/java/examples/InterruptibleLocking.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\LaunderThrowable.java" afterPath="$PROJECT_DIR$/src/main/java/examples/LaunderThrowable.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\LazyInitRace.java" afterPath="$PROJECT_DIR$/src/main/java/examples/LazyInitRace.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\LeftRightDeadlock.java" afterPath="$PROJECT_DIR$/src/main/java/examples/LeftRightDeadlock.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\LifecycleWebServer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/LifecycleWebServer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\LinkedQueue.java" afterPath="$PROJECT_DIR$/src/main/java/examples/LinkedQueue.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\ListHelpers.java" afterPath="$PROJECT_DIR$/src/main/java/examples/ListHelpers.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\ListenerExamples.java" afterPath="$PROJECT_DIR$/src/main/java/examples/ListenerExamples.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\LogService.java" afterPath="$PROJECT_DIR$/src/main/java/examples/LogService.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\LogWriter.java" afterPath="$PROJECT_DIR$/src/main/java/examples/LogWriter.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\Memoizer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/Memoizer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\Memoizer1.java" afterPath="$PROJECT_DIR$/src/main/java/examples/Memoizer1.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\Memoizer2.java" afterPath="$PROJECT_DIR$/src/main/java/examples/Memoizer2.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\Memoizer3.java" afterPath="$PROJECT_DIR$/src/main/java/examples/Memoizer3.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\MonitorVehicleTracker.java" afterPath="$PROJECT_DIR$/src/main/java/examples/MonitorVehicleTracker.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\MutableInteger.java" afterPath="$PROJECT_DIR$/src/main/java/examples/MutableInteger.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\MutablePoint.java" afterPath="$PROJECT_DIR$/src/main/java/examples/MutablePoint.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\MyAppThread.java" afterPath="$PROJECT_DIR$/src/main/java/examples/MyAppThread.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\MyThreadFactory.java" afterPath="$PROJECT_DIR$/src/main/java/examples/MyThreadFactory.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\NoVisibility.java" afterPath="$PROJECT_DIR$/src/main/java/examples/NoVisibility.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\NoncancelableTask.java" afterPath="$PROJECT_DIR$/src/main/java/examples/NoncancelableTask.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\NonreentrantDeadlock.java" afterPath="$PROJECT_DIR$/src/main/java/examples/NonreentrantDeadlock.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\NumberRange.java" afterPath="$PROJECT_DIR$/src/main/java/examples/NumberRange.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\OneShotLatch.java" afterPath="$PROJECT_DIR$/src/main/java/examples/OneShotLatch.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\OneValueCache.java" afterPath="$PROJECT_DIR$/src/main/java/examples/OneValueCache.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\OutOfTime.java" afterPath="$PROJECT_DIR$/src/main/java/examples/OutOfTime.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\PersonSet.java" afterPath="$PROJECT_DIR$/src/main/java/examples/PersonSet.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\Point.java" afterPath="$PROJECT_DIR$/src/main/java/examples/Point.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\PossibleReordering.java" afterPath="$PROJECT_DIR$/src/main/java/examples/PossibleReordering.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\Preloader.java" afterPath="$PROJECT_DIR$/src/main/java/examples/Preloader.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\PrimeGenerator.java" afterPath="$PROJECT_DIR$/src/main/java/examples/PrimeGenerator.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\PrimeProducer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/PrimeProducer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\PrivateLock.java" afterPath="$PROJECT_DIR$/src/main/java/examples/PrivateLock.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\ProducerConsumer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/ProducerConsumer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\PseudoRandom.java" afterPath="$PROJECT_DIR$/src/main/java/examples/PseudoRandom.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\PublishingVehicleTracker.java" afterPath="$PROJECT_DIR$/src/main/java/examples/PublishingVehicleTracker.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\PutTakeTest.java" afterPath="$PROJECT_DIR$/src/main/java/examples/PutTakeTest.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\Puzzle.java" afterPath="$PROJECT_DIR$/src/main/java/examples/Puzzle.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\PuzzleNode.java" afterPath="$PROJECT_DIR$/src/main/java/examples/PuzzleNode.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\PuzzleSolver.java" afterPath="$PROJECT_DIR$/src/main/java/examples/PuzzleSolver.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\ReadWriteMap.java" afterPath="$PROJECT_DIR$/src/main/java/examples/ReadWriteMap.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\ReaderThread.java" afterPath="$PROJECT_DIR$/src/main/java/examples/ReaderThread.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\ReentrantLockPseudoRandom.java" afterPath="$PROJECT_DIR$/src/main/java/examples/ReentrantLockPseudoRandom.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\RenderWithTimeBudget.java" afterPath="$PROJECT_DIR$/src/main/java/examples/RenderWithTimeBudget.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\Renderer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/Renderer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\ResourceFactory.java" afterPath="$PROJECT_DIR$/src/main/java/examples/ResourceFactory.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\SafeLazyInitialization.java" afterPath="$PROJECT_DIR$/src/main/java/examples/SafeLazyInitialization.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\SafeListener.java" afterPath="$PROJECT_DIR$/src/main/java/examples/SafeListener.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\SafePoint.java" afterPath="$PROJECT_DIR$/src/main/java/examples/SafePoint.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\SafeStates.java" afterPath="$PROJECT_DIR$/src/main/java/examples/SafeStates.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\SafeVectorHelpers.java" afterPath="$PROJECT_DIR$/src/main/java/examples/SafeVectorHelpers.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\Secrets.java" afterPath="$PROJECT_DIR$/src/main/java/examples/Secrets.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\SemaphoreBoundedBuffer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/SemaphoreBoundedBuffer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\SemaphoreOnLock.java" afterPath="$PROJECT_DIR$/src/main/java/examples/SemaphoreOnLock.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\Sequence.java" afterPath="$PROJECT_DIR$/src/main/java/examples/Sequence.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\SequentialPuzzleSolver.java" afterPath="$PROJECT_DIR$/src/main/java/examples/SequentialPuzzleSolver.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\ServerStatusAfterSplit.java" afterPath="$PROJECT_DIR$/src/main/java/examples/ServerStatusAfterSplit.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\ServerStatusBeforeSplit.java" afterPath="$PROJECT_DIR$/src/main/java/examples/ServerStatusBeforeSplit.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\SimulatedCAS.java" afterPath="$PROJECT_DIR$/src/main/java/examples/SimulatedCAS.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\SingleThreadRenderer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/SingleThreadRenderer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\SingleThreadWebServer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/SingleThreadWebServer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\SleepyBoundedBuffer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/SleepyBoundedBuffer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\SocketUsingTask.java" afterPath="$PROJECT_DIR$/src/main/java/examples/SocketUsingTask.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\StatelessFactorizer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/StatelessFactorizer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\StripedMap.java" afterPath="$PROJECT_DIR$/src/main/java/examples/StripedMap.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\StuffIntoPublic.java" afterPath="$PROJECT_DIR$/src/main/java/examples/StuffIntoPublic.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\SwingUtilities.java" afterPath="$PROJECT_DIR$/src/main/java/examples/SwingUtilities.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\SynchronizedFactorizer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/SynchronizedFactorizer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\SynchronizedInteger.java" afterPath="$PROJECT_DIR$/src/main/java/examples/SynchronizedInteger.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\TaskExecutionWebServer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/TaskExecutionWebServer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\TaskRunnable.java" afterPath="$PROJECT_DIR$/src/main/java/examples/TaskRunnable.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\TestBoundedBuffer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/TestBoundedBuffer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\TestHarness.java" afterPath="$PROJECT_DIR$/src/main/java/examples/TestHarness.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\TestThreadPool.java" afterPath="$PROJECT_DIR$/src/main/java/examples/TestThreadPool.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\ThisEscape.java" afterPath="$PROJECT_DIR$/src/main/java/examples/ThisEscape.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\ThreadDeadlock.java" afterPath="$PROJECT_DIR$/src/main/java/examples/ThreadDeadlock.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\ThreadGate.java" afterPath="$PROJECT_DIR$/src/main/java/examples/ThreadGate.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\ThreadPerTaskExecutor.java" afterPath="$PROJECT_DIR$/src/main/java/examples/ThreadPerTaskExecutor.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\ThreadPerTaskWebServer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/ThreadPerTaskWebServer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\ThreeStooges.java" afterPath="$PROJECT_DIR$/src/main/java/examples/ThreeStooges.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\TimeBudget.java" afterPath="$PROJECT_DIR$/src/main/java/examples/TimeBudget.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\TimedLocking.java" afterPath="$PROJECT_DIR$/src/main/java/examples/TimedLocking.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\TimedPutTakeTest.java" afterPath="$PROJECT_DIR$/src/main/java/examples/TimedPutTakeTest.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\TimedRun.java" afterPath="$PROJECT_DIR$/src/main/java/examples/TimedRun.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\TimedRun1.java" afterPath="$PROJECT_DIR$/src/main/java/examples/TimedRun1.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\TimedRun2.java" afterPath="$PROJECT_DIR$/src/main/java/examples/TimedRun2.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\TimingThreadPool.java" afterPath="$PROJECT_DIR$/src/main/java/examples/TimingThreadPool.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\TrackingExecutor.java" afterPath="$PROJECT_DIR$/src/main/java/examples/TrackingExecutor.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\TransformingSequential.java" afterPath="$PROJECT_DIR$/src/main/java/examples/TransformingSequential.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\UEHLogger.java" afterPath="$PROJECT_DIR$/src/main/java/examples/UEHLogger.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\UnsafeCachingFactorizer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/UnsafeCachingFactorizer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\UnsafeCountingFactorizer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/UnsafeCountingFactorizer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\UnsafeLazyInitialization.java" afterPath="$PROJECT_DIR$/src/main/java/examples/UnsafeLazyInitialization.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\UnsafeSequence.java" afterPath="$PROJECT_DIR$/src/main/java/examples/UnsafeSequence.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\UnsafeStates.java" afterPath="$PROJECT_DIR$/src/main/java/examples/UnsafeStates.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\UnsafeVectorHelpers.java" afterPath="$PROJECT_DIR$/src/main/java/examples/UnsafeVectorHelpers.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\ValueLatch.java" afterPath="$PROJECT_DIR$/src/main/java/examples/ValueLatch.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\VisualComponent.java" afterPath="$PROJECT_DIR$/src/main/java/examples/VisualComponent.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\VolatileCachedFactorizer.java" afterPath="$PROJECT_DIR$/src/main/java/examples/VolatileCachedFactorizer.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\WebCrawler.java" afterPath="$PROJECT_DIR$/src/main/java/examples/WebCrawler.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\WithinThreadExecutor.java" afterPath="$PROJECT_DIR$/src/main/java/examples/WithinThreadExecutor.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\WorkerThread.java" afterPath="$PROJECT_DIR$/src/main/java/examples/WorkerThread.java" />
+      <change type="MOVED" beforePath="D:\workspace\concurrency\src\main\java\net\jcip\examples\XorShift.java" afterPath="$PROJECT_DIR$/src/main/java/examples/XorShift.java" />
+    </list>
     <ignored path="concurrency.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/log4j.properties" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1365941945974" ignored="false" />
     <file path="/GuardedBy.java" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1365942442131" ignored="false" />
-    <file path="/fragment.java" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1365942615340" ignored="false" />
+    <file path="/fragment.java" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1371234838420" ignored="false" />
     <file path="/NotThreadSafe.java" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1365942587477" ignored="false" />
     <file path="/PutTakeTest.java" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1365942667372" ignored="false" />
     <file path="/TestBoundedBuffer.java" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1365942718532" ignored="false" />
     <file path="/TestThreadPool.java" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1365942768599" ignored="false" />
     <file path="/README.txt" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1365943001300" ignored="false" />
+    <file path="/Dummy.txt" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1371234580963" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/jstl-core.taglib.xml" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023073" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/facelets_jsf_core.taglib.xml" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023073" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/twitter/spring-integration-twitter-2.1.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023073" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/event/spring-integration-event-2.2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023074" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/event/spring-integration-event-2.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023074" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/event/spring-integration-event-2.1.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023074" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/http/spring-integration-http-2.1.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023074" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/http/spring-integration-http-2.2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023074" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/redis/spring-integration-redis-2.1.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023074" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/ws/spring-integration-ws-2.2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023074" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/ftp/spring-integration-ftp-2.2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023074" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/ftp/spring-integration-ftp-2.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023074" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/jms/spring-integration-jms-2.2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023074" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/jms/spring-integration-jms-2.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023074" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/jmx/spring-integration-jmx-2.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023074" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/jpa/spring-integration-jpa-2.2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023074" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/rmi/spring-integration-rmi-2.2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023074" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/rmi/spring-integration-rmi-2.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023074" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/rmi/spring-integration-rmi-2.1.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023074" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/xml/spring-integration-xml-2.2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023074" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/xml/spring-integration-xml-2.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023074" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/amqp/spring-integration-amqp-2.2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023074" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/amqp/spring-integration-amqp-2.1.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023074" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/soap-encoding.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023075" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/wsdl11_mimebinding.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023075" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/wadl20061109.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023075" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/bindingschema_2_0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023075" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/jboss-jaxrpc-config_2_0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023075" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/wsdl20.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023075" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/wsdl12.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023075" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/bindingfile.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023075" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/business-process.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023075" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/wsdl11.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023075" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/jersey.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023075" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/XMLSchema.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023075" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/wsdl11_httpbinding.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023075" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/jboss-ws-security_1_0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023075" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/ws-addr.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023075" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/ws-eventing.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023075" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/wsdl11soap12.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023075" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/cxf-jaxws.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023075" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/jboss-jaxws-config_2_0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023075" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/cxf-soap.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023076" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/wsdl_customizationschema_2_0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023076" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/wsdd_provider_java.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023076" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/xjc.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023076" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/ws-addr2006.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023076" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/jbossws-tool_1_0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023076" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/sun-jaxws.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023076" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/wadl20090202.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023076" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/soap-encoding1_2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023076" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/wsdl11_soapbinding.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023076" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/j2ee_jaxrpc_mapping_1_1.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023076" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/ws-policy.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023076" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/soap-envelope.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023076" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/wsdl/wsdl.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023076" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/wsdl/http/wsdl11_httpbinding.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023076" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/wsdl/mime/wsdl11_mimebinding.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023076" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/wsdl/soap/wsdl11_soapbinding.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023076" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/resources/cxf.web.xml" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023076" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/resources/sun-jaxws.xml" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023076" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/resources/Axis.services.wsdd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023076" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/resources/cxf-servlet.xml" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023077" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/resources/Axis2Servlet.web.xml" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023077" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/resources/WSServlet.web.xml" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023077" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/resources/JAXRPCServlet.web.xml" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023077" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/resources/AxisServlet.web.xml" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023077" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/resources/Axis2.conf_axis2.xml" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023077" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/resources/REST_SWDP.web.xml" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023077" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/javaee_6.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023077" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/resources/jaxrpc-ri-runtime.xml" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023077" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/WebServices.jar!/schemas/resources/Axis2.services.xml" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023077" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/rabbit/spring-rabbit-1.1.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023077" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/SpringIntegration/lib/spring-integration-support.jar!/resources/schemas/rabbit/spring-rabbit-1.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023077" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/dynamicModules/lib/spring-osgi-support.jar!/resources/schemas/spring-osgi-1.1.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023077" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/dynamicModules/lib/spring-osgi-support.jar!/resources/schemas/spring-osgi-compendium-1.1.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023077" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-util-2.5.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023077" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-task-3.1.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023077" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-cache-3.1.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023078" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-tx-2.5.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023078" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-aop-2.5.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023078" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-aop-3.1.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023078" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-aop-3.2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023078" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-beans-3.2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023078" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-context-3.1.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023078" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-lang-3.2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023078" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-tx-2.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023078" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-beans-2.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023078" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-util-2.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023078" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-aop-3.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023078" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-beans-3.1.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023078" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-jms-2.5.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023078" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-oxm-3.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023078" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-util-3.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023078" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-lang-2.5.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023078" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-jms-3.1.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023078" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-task-3.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023079" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-context-3.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023079" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-lang-3.1.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023079" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-beans-3.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023079" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-mvc-3.2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023079" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-tx-3.2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023079" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-oxm-3.1.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023079" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-jee-2.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023079" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-jms-3.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023079" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-context-3.2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023079" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-tool-3.1.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023079" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-tool-3.2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023079" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-tx-3.1.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023079" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-mvc-3.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023079" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-util-3.1.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023079" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-jee-3.2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023079" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-tool-2.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023079" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-lang-2.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023079" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-task-3.2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023079" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-jee-3.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023079" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-jdbc-3.2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023080" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-tx-3.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023080" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-aop-2.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023080" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-util-3.2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023080" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-beans-2.5.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023080" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-mvc-3.1.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023080" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-jee-2.5.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023080" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-jms-3.2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023080" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-tool-3.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023080" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-jee-3.1.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023080" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-jdbc-3.1.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023080" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-oxm-3.2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023080" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-cache-3.2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023080" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-context-2.5.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023080" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-tool-2.5.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023080" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-lang-3.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023080" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Spring/lib/spring.jar!/resources/schemas/spring-jdbc-3.0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023080" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/html_basic.tld" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023080" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/xml.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023080" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/html_basic_2_0.tld" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023080" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/jsf-ui.tld" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023081" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/composite.tld" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023081" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/ui.taglib.xml" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023081" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/jstl-fn.taglib.xml" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023081" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/composite.taglib.xml" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023081" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/web-facesconfig_1_2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023081" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/web-facesconfig_1_1.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023081" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/jsf-ui-2_0.tld" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023081" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/web-facesconfig_2_0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023081" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/javaee_5.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023081" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/jsf_core_2_0.tld" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023081" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/jstl.core.facelets.tld" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023081" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/jstl.fn.facelets.tld" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023081" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/javaee_web_services_1_2.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023081" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/web-facelettaglibrary_2_0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023081" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/mojarra_ext.taglib.xml" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023081" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/web-facesuicomponent_2_0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023081" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/html_basic.taglib.xml" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023081" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/web-partialresponse_2_0.xsd" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023081" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/jsf_core.tld" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1366981023082" ignored="false" />
+    <file path="/a.dummy" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1367725270143" ignored="false" />
+    <file path="$PROJECT_DIR$/../thinking-java/src/main/java/chapter02_demo/Test.java" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1367725019359" ignored="false" />
+    <file path="/Test.java" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1371234884760" ignored="false" />
+    <file path="$PROJECT_DIR$/../thinking-java/src/main/java/chapter01_utils/JschLocalExeUtil.java" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1371234648235" ignored="false" />
+    <file path="/pom.xml" changelist="83e38748-586c-4c7b-98a7-e5cec06f8e77" time="1371234928348" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,97 +387,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CachedFactorizer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/jcip/examples/CachedFactorizer.java">
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="3" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CasNumberRange.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/jcip/examples/CasNumberRange.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="1" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0">
+            <state line="11" column="0" selection-start="468" selection-end="468" vertical-scroll-proportion="0.55585104">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PutTakeTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/jcip/examples/PutTakeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="3" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestBoundedBuffer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/jcip/examples/TestBoundedBuffer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="5" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestThreadPool.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/jcip/examples/TestThreadPool.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="2" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TimedPutTakeTest.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/jcip/examples/TimedPutTakeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="5" selection-start="491" selection-end="491" vertical-scroll-proportion="0.602537">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Immutable.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/jcip/annotations/Immutable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="18" selection-start="1003" selection-end="1003" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NotThreadSafe.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/jcip/annotations/NotThreadSafe.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="25" selection-start="984" selection-end="984" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThreadSafe.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/jcip/annotations/ThreadSafe.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="30" selection-start="1015" selection-end="1015" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -174,22 +403,33 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/net/jcip/examples/BetterAttributeStore.java" />
-        <option value="$PROJECT_DIR$/src/main/java/net/jcip/annotations/GuardedBy.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/net/jcip/annotations/NotThreadSafe.java" />
-        <option value="$PROJECT_DIR$/src/main/java/net/jcip/annotations/ThreadSafe.java" />
-        <option value="$PROJECT_DIR$/src/main/java/net/jcip/annotations/Immutable.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/jcip/examples/CasNumberRange.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/jcip/examples/PutTakeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/jcip/examples/TestBoundedBuffer.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/jcip/examples/TestThreadPool.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/jcip/examples/TimedPutTakeTest.java" />
         <option value="$PROJECT_DIR$/README.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/net/jcip/examples/ProducerConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/jcip/examples/Factorizer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/jcip/examples/TimedRun.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/jcip/examples/SocketUsingTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/jcip/examples/LogService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/jcip/examples/BoundedExecutor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/jcip/examples/MyAppThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/jcip/examples/ConcurrentPuzzleSolver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/common/Test.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -200,13 +440,41 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="concurrency" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="concurrency" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -312,14 +580,6 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="net" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jcip" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -328,16 +588,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="File.Encoding" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../algorithm/pom.xml" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -348,12 +612,59 @@
       <recent name="D:\workspace\concurrency" />
       <recent name="D:\workspace\concurrency\src\main\resources" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.NoVisibility">
+    <configuration default="false" name="NoVisibility" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="examples.NoVisibility" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="concurrency" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
       <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -441,7 +752,14 @@
       <patterns />
       <method />
     </configuration>
-    <list size="0" />
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.NoVisibility" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.NoVisibility" />
+      </list>
+    </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -475,31 +793,31 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21841705" sideWeight="0.6993127" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2929985" sideWeight="0.6701031" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25799087" sideWeight="0.6993127" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30068728" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -567,134 +885,113 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/jcip/examples/BaseBoundedBuffer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/examples/SequentialPuzzleSolver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="10" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
+        <state line="36" column="13" selection-start="1059" selection-end="1059" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/jcip/examples/BetterAttributeStore.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_07/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="12" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0">
+        <state line="1472" column="6" selection-start="57903" selection-end="57903" vertical-scroll-proportion="0.58666664" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/examples/ValueLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="21" selection-start="616" selection-end="624" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/jcip/examples/Factorizer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/examples/PuzzleSolver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#395#573#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/jcip/examples/LazyInitRace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="38" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0">
+        <state line="34" column="13" selection-start="933" selection-end="933" vertical-scroll-proportion="0.3813814">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/jcip/annotations/GuardedBy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/examples/InduceLockOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="26" selection-start="985" selection-end="985" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/jcip/annotations/NotThreadSafe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="25" selection-start="984" selection-end="984" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/jcip/annotations/ThreadSafe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="30" selection-start="1015" selection-end="1015" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/jcip/examples/CachedFactorizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="3" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/jcip/annotations/Immutable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="18" selection-start="1003" selection-end="1003" vertical-scroll-proportion="0.0">
+        <state line="17" column="27" selection-start="497" selection-end="497" vertical-scroll-proportion="0.057057057">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/jcip/examples/CasNumberRange.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/examples/CooperatingNoDeadlock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="1" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0">
+        <state line="72" column="9" selection-start="1925" selection-end="1925" vertical-scroll-proportion="0.15315315">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/jcip/examples/PutTakeTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/examples/TrackingExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="3" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0">
+        <state line="9" column="2" selection-start="184" selection-end="184" vertical-scroll-proportion="0.057057057">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_07/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="286" column="6" selection-start="9138" selection-end="9138" vertical-scroll-proportion="0.05292479">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_07/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="156" column="0" selection-start="5124" selection-end="5124" vertical-scroll-proportion="-2.687619" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/examples/OutOfTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="38" selection-start="452" selection-end="452" vertical-scroll-proportion="0.08356546">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/examples/BaseBoundedBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="22" selection-start="222" selection-end="222" vertical-scroll-proportion="0.05292479">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/examples/BoundedBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="13" selection-start="201" selection-end="201" vertical-scroll-proportion="0.05292479">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/examples/BoundedHashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="3" selection-start="83" selection-end="83" vertical-scroll-proportion="0.05292479">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/jcip/examples/TestBoundedBuffer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/examples/ConcurrentPuzzleSolver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="5" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="24" column="33" selection-start="802" selection-end="802" vertical-scroll-proportion="0.06188925">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/jcip/examples/TestThreadPool.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/common/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="2" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="24" column="19" selection-start="766" selection-end="766" vertical-scroll-proportion="0.07985481">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="0" selection-start="2814" selection-end="2814" vertical-scroll-proportion="1.6753507">
+        <state line="11" column="0" selection-start="468" selection-end="468" vertical-scroll-proportion="0.55585104">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/jcip/examples/TimedPutTakeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="5" selection-start="491" selection-end="491" vertical-scroll-proportion="0.602537">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
